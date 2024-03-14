@@ -54,9 +54,15 @@ This project involves multiple milestones and follows an agile development proce
 # Group Members
 
 Jeet Patel (Leader)
+
 Yash Shah
+
 Arthav Patel
+
 Jeetkumar Patel
+
 Sahil Khatri
+
 Samarth Shah
+
 
