@@ -1,5 +1,5 @@
-#ifndef TRUCK_MODULE_H
-#define TRUCK_MODULE_H
+#ifndef TRUCK_H
+#define TRUCK_H
 #define MAX_CARGO_VOL 36      
 #define MAX_CARGO_WEIGHT 1000 
 
