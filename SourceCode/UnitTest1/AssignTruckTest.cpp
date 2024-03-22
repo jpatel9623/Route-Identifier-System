@@ -115,6 +115,7 @@ namespace TestCases
 			int result = AssignTruck(package);
 			Assert::AreEqual(2, result);
 		}
+		
 
 
 	};
