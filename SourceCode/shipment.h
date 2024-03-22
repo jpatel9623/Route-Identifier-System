@@ -11,5 +11,9 @@ struct Shipment
     struct Point destination;
 };
 
+int validate(double size, int weight, struct Point destination);
+
+void read();
+
 
 #endif
