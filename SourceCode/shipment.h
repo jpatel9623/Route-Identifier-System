@@ -1,5 +1,5 @@
-#ifndef SHIPMENT_MODULE_H
-#define SHIPMENT_MODULE_H
+#ifndef SHIPMENT_H
+#define SHIPMENT_H
 
 #define SMALL_BOX_VOL 0.25
 #define MED_BOX_VOL 0.50
